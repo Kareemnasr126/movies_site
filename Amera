@@ -1,0 +1,70 @@
+    <table style="background-color: rgb(206, 225, 228);">
+        <tr>
+            <td>
+                <p>JavaScript is the world's most popular programming language.<br>
+
+                    JavaScript is the programming language of the Web.<br>
+                    
+                    JavaScript is easy to learn.<br>
+                    
+                    This tutorial will teach you JavaScript from basic to advanced.<br>
+                    
+                    </p>
+            </td>
+
+            <td><img src="pic/1pic.jpg" width="100%" height="100%" alt="JavaScript" > </td>
+            <td>
+                <p>PHP is a server scripting language, <br>
+                    and a powerful tool for making dynamic and interactive Web pages.<br>
+
+                    PHP is a widely-used, free, and efficient alternative <br>
+                    to competitors such as Microsoft's ASP.<br>
+                    
+                    </p>
+            </td>
+            <td><img src="pic/2pic.png" width="100%" height="100%" alt="php"></td>
+        </tr>
+
+
+
+        <tr>
+            <td>
+                <p> WordPress is the simplest, most popular way<br>
+                     to create your own website or blog. In fact,<br>
+                      WordPress powers over 40.0% of all the websites <br>
+                      on the Internet. <br>
+                    </p>
+            </td>
+            <td><img src="pic/3pic.jpg" width="100%" height="100%" alt="wordpress"> </td>
+            <td>
+                <p>SQL is a standard language for storing, <br>
+                    manipulating and retrieving data in databases.<br>
+
+                    Our SQL tutorial will teach you how to use SQL in:<br>
+                     MySQL, SQL Server, MS Access, Oracle, Sybase, Informix,<br> </p>
+            </td>
+            <td><img src="pic/4pic.png" width="100%" height="100%" alt="sql"></td>
+        </tr>
+
+
+
+        <tr>
+            <td>
+                <p>HTML is the standard markup language for Web pages.<br>
+
+                    With HTML you can create your own Website.<br>
+                    
+                    </p>
+            </td>
+            <td><img src="pic/5pic.png" width="100%" height="100%" alt="HTML"> </td>
+            <td>
+                <p>CSS stands for Cascading Style Sheets<br>
+                    CSS describes how HTML elements are to be <br>
+                    displayed on screen, paper, or in other media<br>
+                    </p>
+            </td>
+            <td><img src="pic/6pic.jpg" width="100%" height="100%" alt="css"></td>
+        </tr>
+
+
+    </table>
